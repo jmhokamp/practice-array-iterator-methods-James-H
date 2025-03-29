@@ -26,6 +26,7 @@ console.log(firstFood);
 
 let foodPosition = favoriteFood.findIndex(food => food.length > 4);
 console.log(foodPosition);
+// 1
 
 
 
